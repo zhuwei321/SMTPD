@@ -50,3 +50,4 @@ If you want to test a trained model, please set the path of model in main.py. Th
 python main.py --test=True --K=0 
 ```
 
+## For the improved framework HARP for the journal's extended version, please visit: https://github.com/zhuwei321/HARP
